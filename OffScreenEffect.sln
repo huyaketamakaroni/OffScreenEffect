@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OffScreenEffect", "Assembly-CSharp-firstpass.csproj", "{5D8F773C-EA4B-5B93-6557-8F24CC597AA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OffScreenEffect", "Assembly-CSharp.csproj", "{324E8DD5-3D1D-5713-2663-F87C4F64E2FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OffScreenEffect", "Assembly-CSharp-Editor.csproj", "{6F32A01C-878A-D148-5170-AD76ECF9E3BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D8F773C-EA4B-5B93-6557-8F24CC597AA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D8F773C-EA4B-5B93-6557-8F24CC597AA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D8F773C-EA4B-5B93-6557-8F24CC597AA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D8F773C-EA4B-5B93-6557-8F24CC597AA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{324E8DD5-3D1D-5713-2663-F87C4F64E2FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{324E8DD5-3D1D-5713-2663-F87C4F64E2FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{324E8DD5-3D1D-5713-2663-F87C4F64E2FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{324E8DD5-3D1D-5713-2663-F87C4F64E2FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F32A01C-878A-D148-5170-AD76ECF9E3BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F32A01C-878A-D148-5170-AD76ECF9E3BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F32A01C-878A-D148-5170-AD76ECF9E3BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F32A01C-878A-D148-5170-AD76ECF9E3BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+C:\Users\renji\Desktop\OffScreenEffect_gakujutu\OffScreenEffect\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\renji\Desktop\OffScreenEffect_gakujutu\OffScreenEffect\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\renji\Desktop\OffScreenEffect_gakujutu\OffScreenEffect\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\renji\Desktop\OffScreenEffect_gakujutu\OffScreenEffect\App\OffScreenEffect\OffScreenEffect.csproj;x86

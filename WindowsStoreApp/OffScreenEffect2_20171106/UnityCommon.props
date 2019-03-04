@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>OffScreenEffect</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\renji\Desktop\OffScreenEffect\WindowsStoreApp\OffScreenEffect2_20171106\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\renji\Desktop\OffScreenEffect\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>
